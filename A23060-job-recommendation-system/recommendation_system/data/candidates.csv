@@ -1,0 +1,81 @@
+candidate_id,name,email,study_area,year_of_study,latitude,longitude,skills,interests,preferred_employment_type,preferred_work_mode,available_from,available_to,min_salary
+1,Bojan Popova,candidate1@example.com,Marketing,3,42.0251,21.4225,"Figma,Photoshop","Finance,Marketing,Design",Full-time,Remote,09:00,17:00,45000
+2,Ana Nikolovska,candidate2@example.com,Business Administration,3,42.0138,21.3975,"Python,SQL,R,Pandas","Software Development,Customer Support,Marketing",Internship,On-site,09:00,17:00,20000
+3,Marko Nikolovska,candidate3@example.com,Business Administration,1,42.0296,21.4627,"Content Writing,Social Media,SEO","Data Analytics,Software Development,Human Resources",Part-time,On-site,09:00,17:00,25000
+4,Stefan Jovanov,candidate4@example.com,Marketing,2,42.0359,21.4601,"UI/UX,Adobe XD,Photoshop,Figma","Business,Customer Support,Finance",Internship,Remote,09:00,17:00,20000
+5,Bojan Petrova,candidate5@example.com,Business Administration,2,41.9714,21.4345,"Administration,Communication",Customer Support,Part-time,Remote,09:00,17:00,45000
+6,Stefan Petrova,candidate6@example.com,Computer Science,2,42.018,21.4098,"Git,FastAPI",Data Analytics,Part-time,Hybrid,09:00,17:00,35000
+7,Ivana Trajkovski,candidate7@example.com,Design,4,42.0137,21.3914,"Communication,English,CRM,Problem Solving","Human Resources,Data Analytics",Full-time,Remote,09:00,17:00,15000
+8,Marija Stojanova,candidate8@example.com,Economics,3,41.972,21.4428,"Excel,Social Media,SEO","Software Development,Customer Support",Internship,Hybrid,09:00,17:00,15000
+9,Marija Ivanov,candidate9@example.com,Design,3,41.9691,21.4511,"Python,Docker,SQL,FastAPI","Customer Support,Marketing",Internship,Hybrid,09:00,17:00,35000
+10,Ivana Dimitrov,candidate10@example.com,Computer Science,3,41.9917,21.3937,"Python,Docker,SQL,FastAPI","Marketing,Software Development",Full-time,Hybrid,09:00,17:00,35000
+11,Ivana Stojanova,candidate11@example.com,Business Administration,1,42.0048,21.4475,"Python,Excel,SQL","Finance,Data Analytics,Software Development",Full-time,Remote,09:00,17:00,45000
+12,Marko Ivanov,candidate12@example.com,Business Administration,1,41.9644,21.4108,"Python,Excel,Pandas,PowerBI","Business,Design",Part-time,Hybrid,09:00,17:00,15000
+13,Marija Stojanova,candidate13@example.com,Business Administration,4,41.9983,21.4619,"FastAPI,SQL,Git,Docker",Data Analytics,Full-time,On-site,09:00,17:00,35000
+14,Ivana Popova,candidate14@example.com,Design,4,41.9645,21.4506,"FastAPI,Docker",Human Resources,Full-time,On-site,09:00,17:00,35000
+15,Elena Dimitrov,candidate15@example.com,Economics,1,41.97,21.419,"Figma,Photoshop",Business,Full-time,Hybrid,09:00,17:00,25000
+16,Stefan Stojanova,candidate16@example.com,Design,4,42.0161,21.4219,"CRM,Ticketing,Problem Solving,Communication","Data Analytics,Customer Support",Internship,Remote,09:00,17:00,25000
+17,Darko Stojanova,candidate17@example.com,Economics,1,41.9981,21.4252,"Excel,Content Writing,SEO","Finance,Business",Internship,Remote,09:00,17:00,35000
+18,Bojan Nikolovska,candidate18@example.com,Design,2,42.0368,21.4464,"Ticketing,Problem Solving,Communication",Finance,Full-time,On-site,09:00,17:00,20000
+19,Bojan Trajkovski,candidate19@example.com,Business Administration,1,42.0266,21.3982,"Illustrator,UI/UX","Finance,Marketing",Full-time,Hybrid,09:00,17:00,15000
+20,Marko Stojanova,candidate20@example.com,Design,2,41.9928,21.4017,"Illustrator,Photoshop,Figma","Design,Software Development,Customer Support",Part-time,Hybrid,09:00,17:00,45000
+21,Marija Nikolovska,candidate21@example.com,Computer Science,2,41.9829,21.4265,"JavaScript,Docker,Python,Git","Design,Data Analytics,Business",Internship,Remote,09:00,17:00,45000
+22,Elena Nikolovska,candidate22@example.com,Computer Science,4,41.9682,21.3865,"FastAPI,Git,JavaScript,SQL",Marketing,Full-time,Remote,09:00,17:00,15000
+23,Ana Trajkovski,candidate23@example.com,Business Administration,4,41.976,21.4153,"Recruitment,Communication,Interviewing","Design,Software Development",Part-time,On-site,09:00,17:00,25000
+24,Darko Stojanova,candidate24@example.com,Marketing,1,41.9948,21.4095,"Figma,Photoshop,Adobe XD",Design,Part-time,On-site,09:00,17:00,35000
+25,Darko Ivanov,candidate25@example.com,Marketing,2,42.0247,21.397,"Excel,Communication",Finance,Part-time,On-site,09:00,17:00,35000
+26,Ana Ivanov,candidate26@example.com,Computer Science,1,42.005,21.3902,"Git,JavaScript,FastAPI,SQL","Marketing,Design",Internship,Hybrid,09:00,17:00,25000
+27,Elena Petrova,candidate27@example.com,Economics,1,41.9685,21.4046,"Python,Docker",Business,Part-time,Hybrid,09:00,17:00,25000
+28,Stefan Popova,candidate28@example.com,Design,1,42.027,21.3936,"Recruitment,Interviewing,Communication,Administration","Marketing,Finance",Part-time,Hybrid,09:00,17:00,45000
+29,Stefan Trajkovski,candidate29@example.com,Economics,4,41.9699,21.3959,"Figma,Adobe XD,Photoshop","Business,Customer Support,Data Analytics",Full-time,Remote,09:00,17:00,45000
+30,Bojan Nikolovska,candidate30@example.com,Design,4,41.9802,21.4052,"Figma,UI/UX",Marketing,Internship,On-site,09:00,17:00,35000
+31,Marija Nikolovska,candidate31@example.com,Design,1,42.01,21.4424,"Reporting,Analysis,Excel","Data Analytics,Marketing",Part-time,Hybrid,09:00,17:00,15000
+32,Marko Petrova,candidate32@example.com,Computer Science,1,42.0087,21.409,"JavaScript,Python",Finance,Full-time,Hybrid,09:00,17:00,20000
+33,Ivana Nikolovska,candidate33@example.com,Computer Science,1,41.9862,21.4178,"Git,Python,JavaScript,SQL","Customer Support,Data Analytics,Software Development",Part-time,On-site,09:00,17:00,25000
+34,Elena Jovanov,candidate34@example.com,Design,4,41.9765,21.4626,"Communication,Excel,Reporting,Project Management","Customer Support,Marketing",Full-time,On-site,09:00,17:00,20000
+35,Stefan Stojanova,candidate35@example.com,Design,4,41.9776,21.45,"Figma,Adobe XD,Photoshop","Design,Business",Full-time,Hybrid,09:00,17:00,15000
+36,Bojan Nikolovska,candidate36@example.com,Economics,1,42.0185,21.4278,"Communication,Excel,Social Media,SEO","Business,Human Resources,Finance",Internship,Hybrid,09:00,17:00,15000
+37,Ana Petrova,candidate37@example.com,Design,1,41.9925,21.4273,"Accounting,Excel,Financial Modeling","Data Analytics,Design",Part-time,Hybrid,09:00,17:00,20000
+38,Ana Trajkovski,candidate38@example.com,Marketing,2,41.97,21.4244,"Recruitment,Communication,Interviewing,Administration",Marketing,Full-time,Hybrid,09:00,17:00,15000
+39,Marko Trajkovski,candidate39@example.com,Marketing,4,41.9898,21.387,"Communication,Administration,Recruitment","Design,Data Analytics,Marketing",Full-time,Hybrid,09:00,17:00,15000
+40,Marko Ivanov,candidate40@example.com,Business Administration,4,42.0272,21.44,"Communication,Social Media,Content Writing","Human Resources,Finance,Software Development",Part-time,On-site,09:00,17:00,25000
+41,Marko Nikolovska,candidate41@example.com,Business Administration,2,42.0188,21.4242,"UI/UX,Figma,Illustrator,Adobe XD","Design,Marketing",Internship,Remote,09:00,17:00,15000
+42,Stefan Jovanov,candidate42@example.com,Economics,3,42.0029,21.408,"Content Writing,Excel,Social Media","Business,Human Resources",Full-time,Hybrid,09:00,17:00,25000
+43,Elena Petrova,candidate43@example.com,Business Administration,2,41.9871,21.4169,"Reporting,Agile","Marketing,Finance,Business",Part-time,Remote,09:00,17:00,20000
+44,Marija Ivanov,candidate44@example.com,Design,3,42.0036,21.4232,"Excel,Communication,Social Media,Content Writing",Design,Part-time,On-site,09:00,17:00,35000
+45,Darko Stojanova,candidate45@example.com,Economics,2,42.0192,21.4437,"Git,Docker",Marketing,Part-time,Hybrid,09:00,17:00,35000
+46,Stefan Popova,candidate46@example.com,Business Administration,4,41.9857,21.3996,"Communication,Excel,Project Management,Agile","Human Resources,Finance",Part-time,On-site,09:00,17:00,15000
+47,Bojan Nikolovska,candidate47@example.com,Computer Science,3,42.0327,21.439,"JavaScript,Docker","Marketing,Software Development,Data Analytics",Full-time,Hybrid,09:00,17:00,15000
+48,Stefan Dimitrov,candidate48@example.com,Design,2,41.983,21.3989,"JavaScript,Python",Business,Internship,Hybrid,09:00,17:00,45000
+49,Marija Stojanova,candidate49@example.com,Economics,4,41.9776,21.4299,"Social Media,Excel,Content Writing,SEO",Design,Full-time,On-site,09:00,17:00,35000
+50,Elena Popova,candidate50@example.com,Design,4,42.0186,21.4407,"Project Management,Excel","Marketing,Data Analytics,Human Resources",Part-time,On-site,09:00,17:00,35000
+51,Stefan Ivanov,candidate51@example.com,Design,2,41.9862,21.4396,"Content Writing,SEO,Communication,Excel",Design,Full-time,Remote,09:00,17:00,15000
+52,Darko Petrova,candidate52@example.com,Marketing,4,42.0184,21.417,"Reporting,Analysis,Financial Modeling,Accounting",Customer Support,Full-time,Hybrid,09:00,17:00,35000
+53,Elena Stojanova,candidate53@example.com,Marketing,3,42.0226,21.4219,"Communication,Interviewing,Recruitment,Administration",Marketing,Full-time,Hybrid,09:00,17:00,25000
+54,Ana Nikolovska,candidate54@example.com,Business Administration,4,42.0083,21.4129,"Illustrator,Adobe XD",Human Resources,Full-time,Remote,09:00,17:00,35000
+55,Elena Ivanov,candidate55@example.com,Computer Science,1,41.9757,21.4645,"JavaScript,FastAPI","Finance,Business,Data Analytics",Full-time,Remote,09:00,17:00,20000
+56,Marko Stojanova,candidate56@example.com,Business Administration,1,41.9612,21.4203,"Content Writing,Excel,Social Media","Customer Support,Human Resources,Software Development",Part-time,Hybrid,09:00,17:00,15000
+57,Ana Nikolovska,candidate57@example.com,Economics,4,42.0313,21.4384,"Social Media,Communication,Excel","Finance,Software Development,Customer Support",Full-time,Remote,09:00,17:00,15000
+58,Darko Dimitrov,candidate58@example.com,Computer Science,3,42.0037,21.4167,"Docker,Python,FastAPI,JavaScript",Data Analytics,Internship,On-site,09:00,17:00,15000
+59,Marija Jovanov,candidate59@example.com,Economics,2,41.9713,21.4213,"R,PowerBI,Pandas,SQL","Human Resources,Finance,Business",Part-time,Hybrid,09:00,17:00,25000
+60,Marija Stojanova,candidate60@example.com,Design,2,41.9885,21.4051,"Interviewing,Administration,Communication",Data Analytics,Full-time,Hybrid,09:00,17:00,45000
+61,Ana Ivanov,candidate61@example.com,Computer Science,3,42.0128,21.4053,"Python,FastAPI,Git,Docker","Data Analytics,Finance,Human Resources",Part-time,On-site,09:00,17:00,15000
+62,Ivana Dimitrov,candidate62@example.com,Business Administration,3,42.0112,21.4371,"English,CRM",Marketing,Part-time,Remote,09:00,17:00,15000
+63,Marko Jovanov,candidate63@example.com,Computer Science,4,42.0213,21.4601,"FastAPI,JavaScript,SQL","Finance,Customer Support",Internship,On-site,09:00,17:00,15000
+64,Bojan Petrova,candidate64@example.com,Business Administration,2,41.9874,21.4589,"R,PowerBI","Design,Software Development",Part-time,Hybrid,09:00,17:00,25000
+65,Ivana Stojanova,candidate65@example.com,Computer Science,1,42.0033,21.4116,"SQL,FastAPI,JavaScript,Python","Human Resources,Customer Support",Internship,On-site,09:00,17:00,25000
+66,Ivana Trajkovski,candidate66@example.com,Computer Science,1,42.016,21.4546,"Git,Docker,SQL","Marketing,Customer Support",Part-time,On-site,09:00,17:00,15000
+67,Bojan Trajkovski,candidate67@example.com,Design,3,42.0019,21.4626,"SQL,Python,Git","Business,Data Analytics,Customer Support",Internship,Remote,09:00,17:00,35000
+68,Darko Stojanova,candidate68@example.com,Marketing,1,42.0175,21.3988,"SEO,Content Writing,Excel","Human Resources,Design,Marketing",Full-time,On-site,09:00,17:00,45000
+69,Bojan Jovanov,candidate69@example.com,Business Administration,1,41.9994,21.3953,"SQL,Python","Business,Customer Support",Full-time,Hybrid,09:00,17:00,45000
+70,Ivana Stojanova,candidate70@example.com,Business Administration,2,41.9705,21.4578,"UI/UX,Photoshop,Figma,Illustrator",Customer Support,Full-time,On-site,09:00,17:00,45000
+71,Elena Trajkovski,candidate71@example.com,Computer Science,1,41.9722,21.4396,"SQL,JavaScript,FastAPI,Docker","Human Resources,Business,Customer Support",Full-time,On-site,09:00,17:00,25000
+72,Marko Nikolovska,candidate72@example.com,Marketing,1,41.9591,21.4585,"Ticketing,English,Problem Solving","Marketing,Software Development,Human Resources",Full-time,Hybrid,09:00,17:00,20000
+73,Marija Jovanov,candidate73@example.com,Economics,4,42.0325,21.3964,"Analysis,Accounting,Excel,Financial Modeling",Software Development,Part-time,On-site,09:00,17:00,35000
+74,Bojan Jovanov,candidate74@example.com,Computer Science,3,42.0304,21.4456,"Python,JavaScript,Docker,FastAPI","Data Analytics,Design,Finance",Part-time,On-site,09:00,17:00,35000
+75,Bojan Petrova,candidate75@example.com,Design,4,42.036,21.4079,"Git,JavaScript,Python,Docker",Data Analytics,Internship,Remote,09:00,17:00,15000
+76,Marko Dimitrov,candidate76@example.com,Design,2,42.0093,21.4204,"English,CRM,Communication",Marketing,Full-time,Hybrid,09:00,17:00,15000
+77,Marija Stojanova,candidate77@example.com,Marketing,4,42.0113,21.455,"Communication,Administration","Software Development,Finance",Internship,On-site,09:00,17:00,35000
+78,Ana Stojanova,candidate78@example.com,Economics,3,42.0376,21.4574,"Reporting,Agile,Excel","Business,Software Development",Part-time,Hybrid,09:00,17:00,35000
+79,Darko Stojanova,candidate79@example.com,Computer Science,4,42.0113,21.4186,"Docker,SQL,FastAPI,JavaScript",Human Resources,Full-time,Hybrid,09:00,17:00,20000
+80,Marija Popova,candidate80@example.com,Marketing,4,42.0227,21.4503,"Administration,Communication,Recruitment","Design,Finance,Customer Support",Internship,Hybrid,09:00,17:00,35000
